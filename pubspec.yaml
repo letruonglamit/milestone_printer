@@ -1,6 +1,6 @@
 name: milestone_printer
 description: Flutter plugin for milestone printer via wifi
-version: 0.0.3
+version: 0.1.0
 homepage: https://github.com/letruonglamit/milestone_printer
 
 environment:
